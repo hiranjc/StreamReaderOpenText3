@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\bin\Debug\net8.0\StreamReaderOpenText3.exe
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\bin\Debug\net8.0\StreamReaderOpenText3.deps.json
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\bin\Debug\net8.0\StreamReaderOpenText3.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\bin\Debug\net8.0\StreamReaderOpenText3.dll
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\bin\Debug\net8.0\StreamReaderOpenText3.pdb
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\obj\Debug\net8.0\StreamReaderOpenText3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\obj\Debug\net8.0\StreamReaderOpenText3.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\obj\Debug\net8.0\StreamReaderOpenText3.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\obj\Debug\net8.0\StreamReaderOpenText3.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\obj\Debug\net8.0\StreamReaderOpenText3.dll
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\obj\Debug\net8.0\refint\StreamReaderOpenText3.dll
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\obj\Debug\net8.0\StreamReaderOpenText3.pdb
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\obj\Debug\net8.0\StreamReaderOpenText3.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\StreamReaderOpenText3\obj\Debug\net8.0\ref\StreamReaderOpenText3.dll
